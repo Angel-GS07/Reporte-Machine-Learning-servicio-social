@@ -10,7 +10,7 @@ Ciudad de México, noviembre 2025.
 
 ## 💻 Código Fuente del Modelo
 
-{⚙️ **Haz clic aquí para ver el código del modelo de Machine Learning**](https://github.com/Angel-GS07/Prediccion-de-CHD-usando-ML--Python) 
+[⚙️ **Haz clic aquí para ver el código del modelo de Machine Learning**](https://github.com/Angel-GS07/Prediccion-de-CHD-usando-ML--Python) 
 
 ## 👥 Autores
 
