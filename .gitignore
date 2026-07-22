@@ -1,0 +1,13 @@
+# Archivos temporales de LaTeX
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+
+# Ignorar el PDF generado localmente
+*.pdf
